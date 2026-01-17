@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-6t5mlnaw"",
-  ""goal"": ""metrics summarizer for telemetry"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "specproj-6t5mlnaw",
+    "goal":  "metrics summarizer for telemetry",
+    "language":  "python",
+    "template":  "python-cli"
 }
